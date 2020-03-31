@@ -15,9 +15,7 @@
 			<div class="col-md-6">
 				<article>
 					<h3 style="color:#0616BC;">We are Beside you</h3>
-					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt et dolores neque eaque. Labore, dicta similique ipsam odit saepe obcaecati suscipit ducimus, commodi dolores animi sed beatae, quia nulla facilis.lorem 
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, doloribus quisquam eaque inventore consectetur sapiente itaque aliquid quae tempore. Eveniet iusto obcaecati magni qui laboriosam saepe unde, totam odio excepturi
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, doloribus quisquam eaque inventore consectetur sapiente itaque aliquid quae tempore. Eveniet iusto obcaecati magni qui laboriosam saepe unde, totam odio excepturi.</p>
+					<p class="text-justify">For millions of people,Online Medical Assistant is the trusted and familiar home where they know they’ll find a healing touch. It connects them with everything they need to take good care of themselves and their family - assessing health issues, finding the right doctor, booking diagnostic tests, obtaining medicines, storing health records or learning new ways to live healthier.</p>
 				</article>
 			</div>
 		</div>
@@ -27,9 +25,7 @@
 			<div class="col-md-6">
 				<article>
 					<h3 style="color:#0616BC;">24/7 hour service</h3>
-					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt et dolores neque eaque. Labore, dicta similique ipsam odit saepe obcaecati suscipit ducimus, commodi dolores animi sed beatae, quia nulla facilis.lorem 
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, doloribus quisquam eaque inventore consectetur sapiente itaque aliquid quae tempore. Eveniet iusto obcaecati magni qui laboriosam saepe unde, totam odio excepturi
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, doloribus quisquam eaque inventore consectetur sapiente itaque aliquid quae tempore. Eveniet iusto obcaecati magni qui laboriosam saepe unde, totam odio excepturi.</p>
+					<p class="text-justify">Online Medical Assistant’s initiative is aimed at making Delhiites more proactive about their health and ensuring that no symptom goes undiagnosed. Operating on the principal of early diagnosis that can lead to better health outcomes, Delhites can use this service 24/7 to get in touch with a qualified doctor instantly, anytime of the day, rather than self-medicating or ignoring it all together.</p>
 				</article>
 			</div>
 			<div class="col-md-6">

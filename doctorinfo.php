@@ -45,7 +45,7 @@
                                                 </div>
                                                 <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                                   <div class="panel-body">
-                                                        Chamber: Seba Diagnostics, Charu Babur Mor, Dinajpur
+                                                        Chamber: 23,Sahjanand Shopping Center,Shastrinagar,Ahmedabad
                                                        
                                                   </div>
                                                 </div>
@@ -60,7 +60,7 @@
                                                 </div>
                                                 <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                                   <div class="panel-body">
-                                                     Phone:9876543210
+                                                     Phone:+919876543210
                                                   </div>
                                                 </div>
                                               </div>
@@ -122,8 +122,7 @@ Gynecologist & Obestetrics
                                                 </div>
                                                 <div id="collapseTwo2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo2">
                                                   <div class="panel-body">
-                                                         Medical College Road (Near Medical College & Al Square Pharmacy), Dinajpur
-                                                       
+                                                        2nd Floor Vishwesh Complex, Varachha Char Rasta,Surat
                                                   </div>
                                                 </div>
                                               </div>
@@ -137,7 +136,7 @@ Gynecologist & Obestetrics
                                                 </div>
                                                 <div id="collapseThree3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree3">
                                                   <div class="panel-body">
-                                                     Phone: +880171565325
+                                                     Phone: +919876543212
                                                   </div>
                                                 </div>
                                               </div>
@@ -174,7 +173,7 @@ Gynecologist & Obestetrics
                                   <div class="col-md-3" > 
 
                                      
-                                     <h3 style="color:#0616BC;">Dr.Habibur Rahaman</h3>
+                                     <h3 style="color:#0616BC;">Dr. Ashok Parmar</h3>
 
 
                                         <!-- Accordian Starts -->
@@ -204,7 +203,7 @@ Expertise: Brain, Nerve & Spine, Neuro-Surgeon
                                                 </div>
                                                 <div id="collapseTwo22" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                                   <div class="panel-body">
-                                                       Jamuna Diagnostic Complex, Near Dinajpur Medical College & Hospital
+                                                       210/A Kalasagar ,Satadhar Char Rasta ,Ahmedabad
                                                        
                                                   </div>
                                                 </div>
@@ -219,7 +218,7 @@ Expertise: Brain, Nerve & Spine, Neuro-Surgeon
                                                 </div>
                                                 <div id="collapseThree33" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                                   <div class="panel-body">
-                                                    Phone: +8801817517971
+                                                    Phone: +919876543211
                                                   </div>
                                                 </div>
                                               </div>
@@ -251,7 +250,7 @@ Expertise: Brain, Nerve & Spine, Neuro-Surgeon
 
                                   <div class="col-md-3">
                                        
-                                       <h3 style="color:#0616BC;">Dr.Anowar Hossain</h3>
+                                       <h3 style="color:#0616BC;">Dr. Ketan Desai</h3>
 
                                              <!-- Accordian Start -->
 
@@ -281,7 +280,7 @@ Medicine Specialist
                                                 </div>
                                                 <div id="collapseTwo222" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                                   <div class="panel-body">
-                                                       Seba Diagnostics, Charu Babur Mor, Dinajpur
+                                                       404 Navratan Complex, Rajkot-Limbadi Highway, Rajkot
                                                        
                                                   </div>
                                                 </div>
@@ -296,7 +295,7 @@ Medicine Specialist
                                                 </div>
                                                 <div id="collapseThree333" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                                   <div class="panel-body">
-                                                     Phone: +8801764197461
+                                                     Phone: +919876543213
                                                   </div>
                                                 </div>
                                               </div>

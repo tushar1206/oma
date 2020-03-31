@@ -1,7 +1,7 @@
 <div class="container-fluid">
 		<div class="header_top">
 			
-			<span style="font-size:50px;color:#2c2f84;font-weight:bolder;margin-left:15px;">Doctor Appoinment System</span>
+			<span style="font-size:50px;color:#2c2f84;font-weight:bolder;margin-left:15px;">Online Medical Assistant</span>
 		</div>
 
 	<!-- 	this is for menu -->

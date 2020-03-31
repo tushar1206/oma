@@ -12,13 +12,12 @@
 		<div class="main_content">
 			<div class="col-md-6" style="border-right: 2px solid black;">
 				<article>
-					<h2>Md. Azharul Islam <h2><h4>Studied B.Sc in Electronics and Communication Engineering</h4>
-							<h5>Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200.</h5>
-						<p> https://portfolio.developerazad.com <br>
-							https://developerazad.wordpress.com <br>
-							https://linkedin.com/in/developerazad <br>
-							https://facebook/developerazad <br>
-							cell: +88 01764761919</p><br>
+					<h2>Md. Arun Sharma <h2><h4>Studied Information Technology Engineering</h4>
+							<h5>Vishwakarma Government Engineering College- Ahmedabad-382424</h5>
+						<p> 
+							https://linkedin.com/in/developeroma <br>
+							https://facebook/developeroma <br>
+							cell: +91 9909999099</p><br>
 				</article>
 			</div>
 			<div class="col-md-6">

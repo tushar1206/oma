@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Medical Management System</title>
+	<title>Online Medical Assistant</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="style.css">
 	<style>
@@ -23,7 +23,6 @@
 		<nav class="menu">
 			<ul>
 				<li><a href="index.php">Home</a></li>
-				<li><a href="medical_college.php">Medical College</a></li>
 				<li><a href="doctorinfo.php">Medical Doctors</a></li>
 				<li><a href="about.php">About Us</a></li>
 				<li><a href="contactus.php">Contact Us</a></li>

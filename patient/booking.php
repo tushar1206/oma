@@ -85,8 +85,7 @@
 					<label>
 						 Payment: <select name="payment" required>
 										<option value="">-select-</option>
-										<option value="Rocket">Rocket</option>
-										<option value="bKask">bKask</option>
+										<option value="Case Only">Case Only</option>
 									</select>
 					</label><br><br>
 					<label>
