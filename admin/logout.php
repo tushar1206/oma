@@ -15,7 +15,7 @@
 		$_SESSION["password"]="";
 
 		$_SESSION['adminstatus']="";
-		      header("location:../index.php");
+		      header("location:adminlogin.php");
 
 	 ?>
  <?php include('footer.php'); ?>

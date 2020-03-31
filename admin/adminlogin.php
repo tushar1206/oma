@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>medical management system</title>
+	<title>Admin Panel</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="style.css">
 	<style>
@@ -18,7 +18,7 @@
 
 	<div class="container">
 		<div class="header_top">
-			<span style="font-size:50px;color:#2c2f84;font-weight:bolder;margin-left:15px;">Doctor Appoinment System</span>
+			<span style="font-size:50px;color:#2c2f84;font-weight:bolder;margin-left:15px;">Online Medical Assistant</span>
 		</div>
 
 	<!-- 	this is for menu -->

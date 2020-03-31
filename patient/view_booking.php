@@ -22,7 +22,6 @@
 				<?php 
 					include('../config.php');
 					
-
 					$sql = " SELECT * FROM booking WHERE email = '".$_SESSION["email"]."'  ";
 					$result = mysqli_query($conn,$sql);
 					$count = mysqli_num_rows($result);

@@ -4,7 +4,7 @@
 	<!-- mc info -->
 	<div class="doctors">
         
-		                    <h3 class="text-center" style="background-color:#272327;color: #fff;">Doctors of Bangladesh</h3>
+		                    <h3 class="text-center" style="background-color:#272327;color: #fff;">Doctors of Gujarat</h3>
                             <div class="col-md-12" style="">
                                   
 
@@ -16,7 +16,7 @@
                                   <div class="col-md-3" > 
 
                                      
-                                     <h3 style="color:#0616BC;">Dr. Animesh Mojumdar</h3>
+                                     <h3 style="color:#0616BC;">Dr. Abhishek Patel</h3>
 
 
                                         <!-- Accordian Starts -->
@@ -60,7 +60,7 @@
                                                 </div>
                                                 <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                                   <div class="panel-body">
-                                                     Phone:+8801764197461
+                                                     Phone:9876543210
                                                   </div>
                                                 </div>
                                               </div>
@@ -91,7 +91,7 @@
 
                                   <div class="col-md-3">
                                        
-                                       <h3 style="color:#0616BC;">Dr. Ayesha Akter Banu</h3>
+                                       <h3 style="color:#0616BC;">Dr. Neha Shah</h3>
 
                                              <!-- Accordian Start -->
 
